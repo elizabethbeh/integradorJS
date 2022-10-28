@@ -1,0 +1,52 @@
+
+
+#bajo-brillo{filter:brightness(60%)}
+
+.navbar-brand img{width: 100px}
+
+#boton_verde{color: #25a342}
+
+#boton-enviar{background-color:#80C50C } 
+
+#B2EB39
+
+
+
+#color_letras
+{
+    color:white
+    brightness(200%)
+}
+
+
+.forms
+{
+    width: 80%;
+    align-items: center;
+}
+
+.fondo-gris
+{
+    background-color: #4B4C50;
+    color: aliceblue;
+    height: auto;
+    width: auto;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #424899;
+    text-align: center;
+ }
+
+ #letra-footer{
+ color: white;
+ }
+
+ 
+ {
+    color:#80C50C;
+ }
+
